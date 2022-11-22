@@ -1,5 +1,5 @@
 {
-	"name": "innoweb/silverstripe-fluent-rtl-support",
+	"name": "violet88/silverstripe-fluent-rtl-support",
 	"description": "Adds RTL support to CMS fields of sites that use fluent.",
 	"type": "silverstripe-vendormodule",
 	"license": "BSD-3-Clause",
@@ -14,7 +14,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Innoweb\\FluentRTLSupport\\": "src/"
+			"Violet88\\FluentRTLSupport\\": "src/"
 		}
 	},
 	"extra": {
