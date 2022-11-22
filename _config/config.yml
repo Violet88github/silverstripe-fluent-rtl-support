@@ -3,4 +3,4 @@ Name: fluentrtlsupport
 ---
 SilverStripe\Admin\LeftAndMain:
   extensions:
-    - Innoweb\FluentRTLSupport\Extensions\FluentRTLLeftAndMainExtension
+    - Violet88\FluentRTLSupport\Extensions\FluentRTLLeftAndMainExtension
