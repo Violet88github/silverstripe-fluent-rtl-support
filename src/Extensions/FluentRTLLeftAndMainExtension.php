@@ -1,5 +1,5 @@
 <?php
-namespace Innoweb\FluentRTLSupport\Extensions;
+namespace Violet88\FluentRTLSupport\Extensions;
 
 use SilverStripe\Admin\LeftAndMainExtension;
 use SilverStripe\View\Requirements;
@@ -11,8 +11,8 @@ class FluentRTLLeftAndMainExtension extends LeftAndMainExtension
 
     public function init()
     {
-        Requirements::javascript('innoweb/silverstripe-fluent-rtl-support:client/dist/js/fluent-rtl.js');
-        Requirements::css("innoweb/silverstripe-fluent-rtl-support:client/dist/css/fluent-rtl.css");
+        Requirements::javascript('violet88/silverstripe-fluent-rtl-support:client/dist/js/fluent-rtl.js');
+        Requirements::css("violet88/silverstripe-fluent-rtl-support:client/dist/css/fluent-rtl.css");
     }
 
     public function updateClientConfig(&$config)
