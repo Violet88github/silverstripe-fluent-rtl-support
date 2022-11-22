@@ -20,7 +20,7 @@ This is very early stages and only changes the direction of text fields. PRs wel
 
 Install the module using composer:
 ```
-composer require innoweb/silverstripe-fluent-rtl-support dev-master
+composer require violet88/silverstripe-fluent-rtl-support dev-master
 ```
 
 Then run dev/build.
