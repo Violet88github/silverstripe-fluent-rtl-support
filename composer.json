@@ -9,7 +9,7 @@
 		"homepage": "https://www.innoweb.com.au"
 	}],
 	"require": {
-		"silverstripe/cms": "^4",
+		"silverstripe/cms": "^4 || ^5",
 		"tractorcow/silverstripe-fluent": ">=4"
 	},
 	"autoload": {
